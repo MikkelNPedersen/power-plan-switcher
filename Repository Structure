@@ -1,0 +1,14 @@
+PowerPlanSwitcher/
+│
+├── PowerPlanSwitcher.sln
+├── README.md
+│
+└── PowerPlanSwitcher/
+    ├── PowerPlanSwitcher.csproj
+    ├── Program.cs
+    ├── MainForm.cs
+    ├── MainForm.Designer.cs
+    ├── ProcessMonitor.cs
+    ├── PowerPlan.cs
+    ├── Config.cs
+    └── TrayManager.cs
